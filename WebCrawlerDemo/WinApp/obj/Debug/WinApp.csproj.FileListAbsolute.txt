@@ -1,0 +1,15 @@
+C:\Users\Harry Peirson\Source\Repos\WebCrawlerDemo\WinApp\bin\Debug\Data\internet1.json
+C:\Users\Harry Peirson\Source\Repos\WebCrawlerDemo\WinApp\bin\Debug\Data\internet2.json
+C:\Users\Harry Peirson\Source\Repos\WebCrawlerDemo\WinApp\bin\Debug\WinApp.exe.config
+C:\Users\Harry Peirson\Source\Repos\WebCrawlerDemo\WinApp\bin\Debug\WinApp.exe
+C:\Users\Harry Peirson\Source\Repos\WebCrawlerDemo\WinApp\bin\Debug\WinApp.pdb
+C:\Users\Harry Peirson\Source\Repos\WebCrawlerDemo\WinApp\bin\Debug\HWP.WebCrawler.Middleware.dll
+C:\Users\Harry Peirson\Source\Repos\WebCrawlerDemo\WinApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Harry Peirson\Source\Repos\WebCrawlerDemo\WinApp\bin\Debug\HWP.WebCrawler.Middleware.pdb
+C:\Users\Harry Peirson\Source\Repos\WebCrawlerDemo\WinApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Harry Peirson\Source\Repos\WebCrawlerDemo\WinApp\obj\Debug\WinApp.csprojResolveAssemblyReference.cache
+C:\Users\Harry Peirson\Source\Repos\WebCrawlerDemo\WinApp\obj\Debug\WinApp.frmMain.resources
+C:\Users\Harry Peirson\Source\Repos\WebCrawlerDemo\WinApp\obj\Debug\WinApp.Properties.Resources.resources
+C:\Users\Harry Peirson\Source\Repos\WebCrawlerDemo\WinApp\obj\Debug\WinApp.csproj.GenerateResource.Cache
+C:\Users\Harry Peirson\Source\Repos\WebCrawlerDemo\WinApp\obj\Debug\WinApp.exe
+C:\Users\Harry Peirson\Source\Repos\WebCrawlerDemo\WinApp\obj\Debug\WinApp.pdb

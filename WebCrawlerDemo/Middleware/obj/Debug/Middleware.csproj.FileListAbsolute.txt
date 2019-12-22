@@ -1,0 +1,7 @@
+C:\Users\Harry Peirson\Source\Repos\WebCrawlerDemo\Middleware\obj\Debug\Middleware.csprojResolveAssemblyReference.cache
+C:\Users\Harry Peirson\Source\Repos\WebCrawlerDemo\Middleware\bin\Debug\HWP.WebCrawler.Middleware.dll
+C:\Users\Harry Peirson\Source\Repos\WebCrawlerDemo\Middleware\bin\Debug\HWP.WebCrawler.Middleware.pdb
+C:\Users\Harry Peirson\Source\Repos\WebCrawlerDemo\Middleware\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Harry Peirson\Source\Repos\WebCrawlerDemo\Middleware\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Harry Peirson\Source\Repos\WebCrawlerDemo\Middleware\obj\Debug\HWP.WebCrawler.Middleware.dll
+C:\Users\Harry Peirson\Source\Repos\WebCrawlerDemo\Middleware\obj\Debug\HWP.WebCrawler.Middleware.pdb

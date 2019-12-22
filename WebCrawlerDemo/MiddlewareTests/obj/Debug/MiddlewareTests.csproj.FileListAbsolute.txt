@@ -1,0 +1,12 @@
+C:\Users\Harry Peirson\Source\Repos\WebCrawlerDemo\MiddlewareTests\bin\Debug\MockData\internet1.json
+C:\Users\Harry Peirson\Source\Repos\WebCrawlerDemo\MiddlewareTests\bin\Debug\MockData\internet2.json
+C:\Users\Harry Peirson\Source\Repos\WebCrawlerDemo\MiddlewareTests\bin\Debug\HWP.WebCrawler.MiddlewareTests.dll
+C:\Users\Harry Peirson\Source\Repos\WebCrawlerDemo\MiddlewareTests\bin\Debug\HWP.WebCrawler.MiddlewareTests.pdb
+C:\Users\Harry Peirson\Source\Repos\WebCrawlerDemo\MiddlewareTests\bin\Debug\HWP.WebCrawler.Middleware.dll
+C:\Users\Harry Peirson\Source\Repos\WebCrawlerDemo\MiddlewareTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Harry Peirson\Source\Repos\WebCrawlerDemo\MiddlewareTests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Harry Peirson\Source\Repos\WebCrawlerDemo\MiddlewareTests\bin\Debug\HWP.WebCrawler.Middleware.pdb
+C:\Users\Harry Peirson\Source\Repos\WebCrawlerDemo\MiddlewareTests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Harry Peirson\Source\Repos\WebCrawlerDemo\MiddlewareTests\obj\Debug\MiddlewareTests.csprojResolveAssemblyReference.cache
+C:\Users\Harry Peirson\Source\Repos\WebCrawlerDemo\MiddlewareTests\obj\Debug\HWP.WebCrawler.MiddlewareTests.dll
+C:\Users\Harry Peirson\Source\Repos\WebCrawlerDemo\MiddlewareTests\obj\Debug\HWP.WebCrawler.MiddlewareTests.pdb
